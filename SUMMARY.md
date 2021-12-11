@@ -13,3 +13,4 @@
 ***
 
 * [未完待续](wei-wan-dai-xu.md)
+* [声明](sheng-ming.md)
